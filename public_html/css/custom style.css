@@ -56,3 +56,8 @@ body{
 #link{
     color: whitesmoke;
 }
+
+#id{
+    background-image: url(../images/kihfrdt.jpg);
+    background-size: cover;
+}
